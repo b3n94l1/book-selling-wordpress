@@ -1,0 +1,23 @@
+/*
+Theme Name:  eBOOKS World
+Author: Ridoy
+Description: eBOOKS World is a WordPress theme for selling eBooks or PDFs online. It is a mobile responsive WordPress theme so our website looks amazing in all the mobile devices, Macs and PCs. It supports SiteOrigin drag and drop page builder hence we can customize our website as per our needs. eBOOKS World theme can be used to sell any type of digital products. To make your website a fully functional membership website we can buy and add WPDigiPro WordPress plugin (available at WPDigiPro.com). We can integrate PayPal to receive Payments and automatically membership area will be created for our buyers.
+Version: 1.1.0
+Tags: eBOOKS World, Sell eBOOKS, Download eBOOKS, Novel, Mafazine, Comics, Academic Books
+Text Domain: eBOOKS World
+*/	
+
+.sticky{}
+.gallery-caption{}
+.bypostauthor{}
+
+/*Custome css progressbar*/
+.count{
+	border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+	padding: 0 20px;
+	color:#fff;
+}
+iframe{
+    width: 100%;
+}
